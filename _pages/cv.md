@@ -46,12 +46,6 @@ redirect_from:
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-강의 (Teaching)
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 기타 활동 및 리더십 (Service and Leadership)
 ======
 * 현재 43개의 Slack 팀에 참여 중
