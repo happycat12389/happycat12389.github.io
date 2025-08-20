@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "이력서"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+학력 (Education)
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 유원대학교 컴퓨터공학과 학사  
 
-Work experience
+경력 (Work Experience)
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024년 봄: Academic Pages 협업자  
+  * GitHub University  
+  * 주요 업무: 템플릿 업데이트 및 개선  
+  * 지도교수: The Users  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015년 가을: 연구 조교  
+  * GitHub University  
+  * 주요 업무: Pull Request 병합  
+  * 지도교수: Professor Hub  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* 2015년 여름: 연구 조교  
+  * GitHub University  
+  * 주요 업무: 이슈 태깅(Tagging)  
+  * 지도교수: Professor Git  
+
+기술 (Skills)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 다른 사람들에 비해 배우는 속도가 느리지만, 꾸준히 열심히 배우고 노력합니다.
 
-Publications
+논문 및 출판 (Publications)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+발표 (Talks)
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+강의 (Teaching)
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+기타 활동 및 리더십 (Service and Leadership)
 ======
-* Currently signed in to 43 different slack teams
+* 현재 43개의 Slack 팀에 참여 중
