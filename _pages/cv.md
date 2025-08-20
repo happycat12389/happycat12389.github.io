@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "이력서"
+title: "이력서 소개"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 학력 (Education)
 ======
-* 유원대학교 컴퓨터공학과 학사  
+* 유원대학교 AI 소프트웨어학과 재학생
 
 경력 (Work Experience)
 ======
